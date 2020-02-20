@@ -1,0 +1,45 @@
+#h2{
+font-size: 14pt;
+}
+.head{
+	text-align: right;
+	background-color:  #A8F0F0;
+}
+.blue {
+	background-color: #E8FBFB;
+	padding: 5px;
+	margin-top: 10px;
+	border: 4px solid #C2E9E9;
+	overflow: auto;
+
+}
+.body{
+	margin-left:10%;
+	margin-right: 10%; 
+
+    background-color: white;
+	border: 10px solid white;
+
+}
+.time{
+	border-bottom: 2px blue dashed;
+}
+img{
+	float: right;
+}
+.sidebar{
+
+}
+body{
+	background-image: "1024.jpg";
+		display: flex;
+
+}
+
+
+
+
+
+
+
+
